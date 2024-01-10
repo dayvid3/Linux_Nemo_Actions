@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Dual Pane
+Comment=Open Dual Pane
+Exec=xdotool key F3
+Selection=None
+Extensions=any;
+Icon-Name=view-dual
