@@ -1,2 +1,2 @@
 # Nemo_Actions
-Custom Actions that add useful context menu commands to Linux Nemo file manager
+Custom Actions that add useful basic commands to the context menu in Linux Nemo file manager
