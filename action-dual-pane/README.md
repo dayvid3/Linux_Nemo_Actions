@@ -1,6 +1,6 @@
 # DUAL PANE
 
-Nemo file manager: Open or close an extra pane that is a split view that shows two folders side by side.
+* Nemo file manager: Open or close an extra pane that is a split view that shows two folders side by side.
 
 
 ## DESCRIPTION
