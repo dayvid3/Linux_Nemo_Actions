@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Select All
+Comment=Select all items in this window
+Exec=xdotool key ctrl+a
+Selection=None
+Extensions=any;
+Icon-Name=object-flip-horizontal
