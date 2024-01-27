@@ -3,7 +3,7 @@
 
 
 * Nemo file manager: Reload the current window.
-
+* Actions should be saved to ~/.local/share/nemo/actions
 
 ## DESCRIPTION
 
