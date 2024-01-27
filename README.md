@@ -9,7 +9,7 @@
 
 
 
-* Dual Pane
+* [Dual Pane](https://github.com/dayvid3/Linux_Nemo_Actions/tree/main/action-dual-pane)
 * Refresh
 * Select All
 
