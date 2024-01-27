@@ -1,7 +1,7 @@
 # DUAL PANE
 
 * Nemo file manager: Open or close an extra pane that is a split view that shows two folders side by side.
-
+* Actions should be saved to ~/.local/share/nemo/actions
 
 ## DESCRIPTION
 
