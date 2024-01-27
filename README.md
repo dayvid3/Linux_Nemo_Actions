@@ -10,8 +10,8 @@
 
 
 * [Dual Pane](https://github.com/dayvid3/Linux_Nemo_Actions/tree/main/action-dual-pane)
-* Refresh
-* Select All
+* [Refresh](https://github.com/dayvid3/Linux_Nemo_Actions/tree/main/action-refresh)
+* [Select All](https://github.com/dayvid3/Linux_Nemo_Actions/tree/main/action-select-all)
 
 
 ## DEPENDENCIES
