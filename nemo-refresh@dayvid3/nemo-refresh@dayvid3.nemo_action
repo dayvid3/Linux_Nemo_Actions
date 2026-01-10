@@ -1,7 +1,7 @@
 [Nemo Action]
 Name=Refresh
 Comment=Reload the current location
-Exec=xdotool key ctrl+r
+Exec=xdotool key F5
 Selection=None
 Extensions=any;
 Icon-Name=view-refresh
